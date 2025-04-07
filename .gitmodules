@@ -1,0 +1,9 @@
+[submodule "Study-Mastery"]
+	path = Study-Mastery
+	url = git@github.com:Lgr01/Study-Mastery.git
+[submodule "Tech-Excellence"]
+	path = Tech-Excellence
+	url = git@github.com:Lgr01/Tech-Excellence.git
+[submodule "English-Evolution"]
+	path = English-Evolution
+	url = git@github.com:Lgr01/English-Evolution.git
